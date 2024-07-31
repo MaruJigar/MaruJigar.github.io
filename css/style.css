@@ -265,7 +265,7 @@ h6 {
 .nav-menu a:hover,
 .nav-menu li:hover > a,
 .nav-menu .menu-active > a {
-    color: #4E6571;
+    color: black;
 }
 
 .nav-menu ul {
